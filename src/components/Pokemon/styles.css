@@ -1,0 +1,11 @@
+.pokemonContainer{
+    width: 20vw;
+    background-color: #ecf0f1;
+    margin-bottom: 3vh;
+    padding: 3vh;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
